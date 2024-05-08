@@ -25,7 +25,7 @@ This project requires a Verilog simulator that supports the Spartan-6 architectu
 This project includes a `run_sim.do` file that can be used to automate the simulation process.
 
 - Make sure your simulator and project are set up correctly.
-- After you adde the source files in the tool, put the following command in the console `do run_sim.do`
+- After you add the source files in the tool, put the following command in the console `do run_sim.do`
   `OR`
 - Open a terminal window and navigate to the directory containing the `run_sim.do` file.
 - Run the command `source run_sim.do` (on Linux/macOS) or `run_sim.do` (on Windows) to execute the script.
@@ -33,7 +33,7 @@ This project includes a `run_sim.do` file that can be used to automate the simul
 
 ### 2. Simulating the Design (Manually): (Optional)
 
-The steps mentioned above provide an automated approach using the .do file.
+The steps mentioned above provide an automated approach using the `.do` file.
 You can still manually compile the source files and run the simulation through your simulator's interface if preferred.
 
 ### 3. Testbench Usage:
